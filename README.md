@@ -1,2 +1,2 @@
 # JardimApp - o aplicativo do jardineiro
-A cobra vai fumar🐍
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
